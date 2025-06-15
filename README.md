@@ -18,3 +18,7 @@
 ## Comunicação de alunos, ministrantes e monitores
 
 A comunicação com entre os alunos ou entre os alunos e os monitores/ministrantes do curso se dará em um servidor do Discord (o convite será enviado aos alunos alguns dias antes do início do curso).
+
+## Agradecimentos
+
+Os ministrantes e monitores prepararam o material a convite do [GVENCK](https://sites.usp.br/gvenck/), na Universidade de São Paulo - Campus USP "Luiz de Queiroz".
